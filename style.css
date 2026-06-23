@@ -1,0 +1,41 @@
+body {
+    margin-left: 512px;
+    margin-right: 512px;
+    color: #ffddcc;
+    font-family: "Times New Roman", serif;
+    background-color: #994422;
+}
+
+img {
+    max-width: 350%;
+    height: auto;
+    box-shadow: 0px 0px 15px #ffaaaa;
+}
+
+.table_of_contents {
+    background-color: #5F9922;
+    border: 16px outset #229974;
+    padding: 32px;
+    margin: 64px;
+}
+
+.safe {
+    color: #00ff00;
+}
+
+.danger {
+    color: #ff0000;
+}
+
+.Snake_card {
+    font-family: "Courier New", serif;
+    text-align: center;
+    color: #dddddd;
+    background-color: #121888;
+    border: 16px double #CA8D22;
+    padding: 32px;
+    margin: 64px;
+    box-shadow: 16px 16px 15px #ffaa00,
+    inset 8px 8px 15px #00ffaa;
+
+}
