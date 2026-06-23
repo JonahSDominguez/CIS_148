@@ -1,13 +1,13 @@
 body {
-    margin-left: 512px;
-    margin-right: 512px;
+    margin-left: 35%;
+    margin-right: 35%;
     color: #ffddcc;
     font-family: "Times New Roman", serif;
     background-color: #994422;
 }
 
 img {
-    max-width: 100%;
+    max-width: 85%;
     height: auto;
     box-shadow: 0px 0px 15px #ffaaaa;
 }
